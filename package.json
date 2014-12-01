@@ -1,0 +1,24 @@
+{
+  "name": "cli-runner",
+  "version": "0.0.0",
+  "description": "Scriptable API for running a CLI in a child process and interacting with it",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/callumlocke/cli-runner"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "Callum Locke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/callumlocke/cli-runner/issues"
+  },
+  "homepage": "https://github.com/callumlocke/cli-runner",
+  "dependencies": {
+    "strip-ansi": "~2.0.0",
+    "chalk": "~0.5.1",
+    "async": "~0.9.0",
+    "lodash": "~2.4.1"
+  }
+}
