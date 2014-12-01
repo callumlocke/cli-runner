@@ -1,6 +1,6 @@
 {
   "name": "cli-runner",
-  "version": "0.0.0",
+  "version": "0.0.1-alpha.1",
   "description": "Scriptable API for running a CLI in a child process and interacting with it",
   "repository": {
     "type": "git",
